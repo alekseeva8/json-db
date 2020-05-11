@@ -13,7 +13,6 @@
     {"kind":"song", "trackName":"Brother Bear", "trackUrl":"https://storage.googleapis.com/bucket-for-songs/song-bratec-medvezhonok-%20-%20On%20My%20Way.mp3", "image":"https://storage.googleapis.com/bucket-for-songs/song-bratec-medvezhonok-On%20My%20Way.jpg"},
     {"kind":"song", "trackName":"Sing", "trackUrl":"https://storage.googleapis.com/bucket-for-songs/song-Sing-Nick%20Kroll%2C%20Reese%20Witherspoon%20-%20Shake%20It%20Off.mp3", "image":"https://storage.googleapis.com/bucket-for-songs/song-Sing.jpg"},
     {"kind":"song", "trackName":"Ballerina", "trackUrl":"https://storage.googleapis.com/bucket-for-songs/song-Ballerina-Magical%20Thinker%20-%20You%20Know%20It's%20About%20You.mp3", "image":"https://storage.googleapis.com/bucket-for-songs/song-balerina.jpg"},
-    {"kind":"song", "trackName":"Sing", "trackUrl":"https://storage.googleapis.com/bucket-for-songs/song-Sing-Nick%20Kroll%2C%20Reese%20Witherspoon%20-%20Shake%20It%20Off.mp3", "image":"https://storage.googleapis.com/bucket-for-songs/song-Sing.jpg"},
     {"kind":"song", "trackName":"Zootopia", "trackUrl":"https://storage.googleapis.com/bucket-for-songs/song-Zootopia-Shakira%20-%20Try%20Everything.mp3", "image":"https://storage.googleapis.com/bucket-for-songs/song-zootopia-2.jpg"}
   ]
 }
