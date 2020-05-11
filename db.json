@@ -1,6 +1,10 @@
 {
   "results": [
     {"kind":"story", "trackName":"Little Red Riding Hood", "trackUrl":"https://storage.googleapis.com/bucket-for-songs/Little_Red_Riding_Hood.mp3", "image":"https://storage.googleapis.com/bucket-for-songs/little-red-riding-hood_2.jpg"},
-    {"kind":"story", "trackName":"Goldilocks and the Three Bears", "trackUrl":"https://storage.googleapis.com/bucket-for-songs/Goldilocks_The_Three_Bears.mp3", "image":"https://storage.googleapis.com/bucket-for-songs/Goldilocks%20and%20the%20Three%20Bears.jpg"}
+    {"kind":"story", "trackName":"Goldilocks and the Three Bears", "trackUrl":"https://storage.googleapis.com/bucket-for-songs/Goldilocks_The_Three_Bears.mp3", "image":"https://storage.googleapis.com/bucket-for-songs/Goldilocks%20and%20the%20Three%20Bears.jpg"},
+    {"kind":"story", "trackName":"Three Little Pigs", "trackUrl":"https://storage.googleapis.com/bucket-for-songs/Three_Little_Pigs.mp3", "image":"https://storage.googleapis.com/bucket-for-songs/three%20little%20pigs.jpg"}
+    {"kind":"story", "trackName":"Cinderella", "trackUrl":"https://storage.googleapis.com/bucket-for-songs/Cinderella.mp3", "https://storage.googleapis.com/bucket-for-songs/cinderella.jpg"}
+    {"kind":"story", "trackName":"Snow White", "trackUrl":"https://storage.googleapis.com/bucket-for-songs/Snow_White.mp3", "image":"https://storage.googleapis.com/bucket-for-songs/snow%20white.jpg"}
+    {"kind":"story", "trackName":"The Lion and the Mouse", "trackUrl":"https://storage.googleapis.com/bucket-for-songs/The_Lion_And_The_Mouse.mp3", "image":"https://storage.googleapis.com/bucket-for-songs/the-lion-and-the-mouse-2.jpg"}
   ]
 }
