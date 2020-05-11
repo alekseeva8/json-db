@@ -6,7 +6,7 @@
     {"kind":"story", "trackName":"Cinderella", "trackUrl":"https://storage.googleapis.com/bucket-for-songs/Cinderella.mp3", "image":"https://storage.googleapis.com/bucket-for-songs/cinderella.jpg"},
     {"kind":"story", "trackName":"Snow White", "trackUrl":"https://storage.googleapis.com/bucket-for-songs/Snow_White.mp3", "image":"https://storage.googleapis.com/bucket-for-songs/snow%20white.jpg"},
     {"kind":"story", "trackName":"Sleeping Beauty", "trackUrl":"https://storage.googleapis.com/bucket-for-songs/Sleeping_Beauty.mp3", "image":"https://storage.googleapis.com/bucket-for-songs/sleeping%20beauty.jpg"},
-    {"kind":"story", "trackName":"Hansel and Gretel", "trackUrl":"https://storage.googleapis.com/bucket-for-songs/Hansel_and_Gretel.mp3", "image":"https://storage.googleapis.com/bucket-for-songs/hansel-and-gretel.jpg"},
-    {"kind":"story", "trackName":"The Lion and the Mouse", "trackUrl":"https://storage.googleapis.com/bucket-for-songs/The_Lion_And_The_Mouse.mp3", "image":"https://storage.googleapis.com/bucket-for-songs/the-lion-and-the-mouse-2.jpg"}
+    {"kind":"story", "trackName":"Hansel and Gretel", "trackUrl":"https://storage.googleapis.com/bucket-for-songs/Hansel_and_Gretel.mp3", "image":"https://storage.googleapis.com/bucket-for-songs/hansel-gretel-eng.jpg"},
+    {"kind":"story", "trackName":"The Lion and the Mouse", "trackUrl":"https://storage.googleapis.com/bucket-for-songs/The_Lion_And_The_Mouse.mp3", "image":"https://storage.googleapis.com/bucket-for-songs/the-lion-and-the-mouse.jpg"}
   ]
 }
